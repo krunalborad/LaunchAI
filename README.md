@@ -95,10 +95,6 @@ LaunchAI is designed for individuals and teams who want to build and launch AI-b
 
 ## 🔗 Project Links
 
-### 📂 GitHub Repository
+### 📂 GitHub Repository: https://github.com/krunalborad/LaunchAI 
 
-  https://github.com/krunalborad/LaunchAI 
-
-### 🌐 Live Demo
-
-  https://launch-ai-teal.vercel.app
+### 🌐 Live Demo: https://launch-ai-teal.vercel.app
